@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d0d0d,50:141625,100:1b1f3b&text=HARSH%20RAJPUT&fontAlign=50&fontAlignY=36&fontSize=58&fontColor=00E5FF&animation=fadeIn&desc=%3C%20SOFTWARE%20ENGINEER%20%2F%2F%20AI%20DEVELOPER%20%2F%2F%20LVL-UP%20CODER%20%3E&descAlignY=58&descColor=8892B0"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d0d0d,50:141625,100:1b1f3b&text=HARSH%20RAJPUT&fontAlign=50&fontAlignY=36&fontSize=58&fontColor=00E5FF&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%2F%2F%20AI%20DEVELOPER%20%2F%2F%20LVL-UP%20CODER&descAlignY=58&descColor=8892B0"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=%F0%9F%8E%AE+CODER+%E2%9A%94%EF%B8%8F+GAMER+%F0%9F%A7%A0+ETERNAL+LEARNER+%F0%9F%8E%AE;%3E+booting+harsh.exe...;Currently+grinding%3A+Kafka+%2B+Spark+%2B+K8s;LeetCode+is+just+Elden+Ring+with+extra+steps;Learn+%E2%86%92+Grind+%E2%86%92+Build+%E2%86%92+Fail+%E2%86%92+Repeat+%E2%86%92+Dominate"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=%F0%9F%8E%AE+CODER+%E2%9A%94%EF%B8%8F+GAMER+%F0%9F%A7%A0+ETERNAL+LEARNER+%F0%9F%8E%AE;booting+harsh.exe...;Currently+grinding%3A+Kafka+%2B+Spark+%2B+K8s;LeetCode+is+just+Elden+Ring+with+extra+steps;Learn+%E2%86%92+Grind+%E2%86%92+Build+%E2%86%92+Fail+%E2%86%92+Repeat+%E2%86%92+Dominate"/>
 </a>
 
 <br>
